@@ -44,3 +44,5 @@ def test():
 
 
 test()
+
+assert True
